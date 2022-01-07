@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactresponsivewebsite/static/css/main.2b000de7.css",
+    "main.js": "/reactresponsivewebsite/static/js/main.5ef22b97.js",
+    "index.html": "/reactresponsivewebsite/index.html",
+    "main.2b000de7.css.map": "/reactresponsivewebsite/static/css/main.2b000de7.css.map",
+    "main.5ef22b97.js.map": "/reactresponsivewebsite/static/js/main.5ef22b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b000de7.css",
+    "static/js/main.5ef22b97.js"
+  ]
+}
